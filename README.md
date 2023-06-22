@@ -44,7 +44,7 @@ This collection requires Python 2.7 or greater
 Prism Central based examples: https://github.com/nutanix/nutanix.ansible/tree/main/examples/
 
 ## Foundation
-> For the 1.1.0 release of the ansible plugin, it will have N-1 compatibility with the Foundation. This release was tested against Foundation versions v5.2 and v5.1.1
+> For the 1.1.0 release of the ansible plugin, it will have N-1 compatibility with the Foundation. This release was tested against Foundation versions v5.2 and v5.1.1 .
 
 Foundation based examples : https://github.com/nutanix/nutanix.ansible/tree/main/examples/foundation
 
